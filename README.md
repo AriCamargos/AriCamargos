@@ -7,7 +7,7 @@ Lover technology, design end codes ❤️
 <div>
    <a href="https://github.com/AriCamargos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriCamargos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aricamargos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriCamargos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   

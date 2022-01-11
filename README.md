@@ -1,8 +1,8 @@
 ### Hello! I'm Ariana Camargos :raised_hand_with_fingers_splayed:
 
-Front-End Developer
+#### Mobile Developer 📱 💙
 
-Lover technology, design end codes ❤️
+Lover technology, design end codes 
 ##
 <div>
    <a href="https://github.com/AriCamargos">

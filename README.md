@@ -2,8 +2,8 @@
 
 #### Mobile Developer 📱 💙
 
-Lover technology, design end codes 
-##
+Lover technology, design and codes 
+#
 <div>
    <a href="https://github.com/AriCamargos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriCamargos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

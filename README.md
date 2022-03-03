@@ -1,6 +1,6 @@
 ### Hello! I'm Ariana Camargos :raised_hand_with_fingers_splayed:
 
-#### Mobile Developer 📱 💙
+#### Mobile Developer | Flutter 📱 💙
 
 Lover technology, design and codes 
 #

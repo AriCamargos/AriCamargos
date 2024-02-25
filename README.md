@@ -6,8 +6,8 @@ Lover technology, design and codes
 #
 <div>
    <a href="https://github.com/AriCamargos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriCamargos&show_icons=true&theme=synthwave&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriCamargos&layout=compact&langs_count=7&theme=synthwave&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriCamargos&show_icons=true&theme=onedark&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriCamargos&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
   #### Technologies and frameworks:
